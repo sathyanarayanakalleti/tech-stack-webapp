@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'satya-techapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35231C67A6FF4ABD978660B8C736EA45 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7AE2FB4258A4426A05EB7873D56103C }}
