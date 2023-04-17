@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'techstack-satya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDC250A0950C4BD6A887A5C4A27CEEA5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6025828CE1504E8AB59CCA3461CD5681 }}
