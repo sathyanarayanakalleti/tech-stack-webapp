@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'techstackapp1s'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E50664F2C9D46979CBA5AD132150368 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83A1773F5665420A9DE27AFFD603935B }}
